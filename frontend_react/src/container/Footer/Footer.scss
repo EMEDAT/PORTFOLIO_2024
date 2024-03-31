@@ -8,6 +8,14 @@
   }
 }
 
+.describe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 2rem;
+}
+
 .app__footer-cards {
   width: 60%;
   display: flex;
