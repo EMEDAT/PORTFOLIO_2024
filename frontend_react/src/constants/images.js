@@ -27,6 +27,7 @@ import about04 from '../assets/about04.png';
 import AI from '../assets/AI.png';
 import Backend from '../assets/Backend.png';
 import Frontend from '../assets/Frontend.png';
+import iphone15 from '../assets/iphone15.jpg'
 
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
@@ -95,5 +96,6 @@ export default {
   nextjs,
   AI,
   Backend,
-  Frontend
+  Frontend,
+  iphone15,
 };
