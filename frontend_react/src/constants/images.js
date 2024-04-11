@@ -28,6 +28,8 @@ import AI from '../assets/AI.png';
 import Backend from '../assets/Backend.png';
 import Frontend from '../assets/Frontend.png';
 import iphone15 from '../assets/iphone15.jpg'
+import stylemodel from '../assets/stylemodel.png'
+import facedetect from '../assets/facedetect.jpg'
 
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
@@ -98,4 +100,6 @@ export default {
   Backend,
   Frontend,
   iphone15,
+  stylemodel,
+  facedetect,
 };
