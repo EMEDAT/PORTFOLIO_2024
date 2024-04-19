@@ -30,6 +30,7 @@ import Frontend from '../assets/Frontend.png';
 import iphone15 from '../assets/iphone15.jpg'
 import stylemodel from '../assets/stylemodel.png'
 import facedetect from '../assets/facedetect.jpg'
+import travel from '../assets/travel.webp'
 
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
@@ -102,4 +103,5 @@ export default {
   iphone15,
   stylemodel,
   facedetect,
+  travel,
 };
