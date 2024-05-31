@@ -23,18 +23,17 @@
   flex-wrap: wrap;
   flex-basis: 75%;
   font-weight: 800;
-  background-color: var(--primary-color); // Set the background color to white
+  background-color: var(--primary-color); 
   color: #000;
-  border-radius: 10px; // Apply rounded corners
-  padding: 10px 20px; // Add some padding for better appearance
- // Set the text color to white for better contrast
-  margin-top: 20px; // Added some margin to separate it from the about cards
-  cursor: pointer; // Changed the cursor to a pointer when hovering over the text
-  transition: background-color 0.3s ease; // Smoothened transition for hover effect
+  border-radius: 10px; 
+  padding: 10px 20px; 
+  margin-top: 20px; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease; 
  
   &:hover {
-     background-color: var(--secondary-color); // Change the background color on hover
-     color: white; //Set the text color to white for better contrast
+     background-color: var(--secondary-color); 
+     color: white; 
      .zero {
       color: white;
      }

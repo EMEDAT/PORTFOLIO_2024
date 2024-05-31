@@ -19,6 +19,19 @@ import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 import gsap from '../assets/gsap.png';
 import nextjs from '../assets/nextjs.svg';
+import express from '../assets/express-109.svg';
+import mongodb from '../assets/mongodb-icon-2.svg';
+import mysql from '../assets/mysql.png';
+import sqlite from '../assets/sqlite-icon.svg';
+import postgresql from '../assets/postgresql.svg';
+import aws from '../assets/aws-2.svg';
+import npm from '../assets/npm-square-red-1.svg';
+import ruby from '../assets/ruby.svg';
+import wordpress from '../assets/wordpress-icon-1.svg';
+import bootstrap from '../assets/bootstrap-4.svg';
+import framerMotion from '../assets/framer-motion.svg';
+import CSharp from '../assets/c--4.svg';
+import reactNative from '../assets/react-native-1.svg';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -32,6 +45,12 @@ import stylemodel from '../assets/stylemodel.png'
 import facedetect from '../assets/facedetect.jpg'
 import travel from '../assets/travel.webp'
 
+import FreecodecampCert from '../assets/FreecodecampCert.png';
+import AlxCert from '../assets/AlxCert.jpg';
+import ReactSummit from '../assets/ReactSummit.png';
+import mentor from '../assets/mentor.webp';
+import blog from '../assets/blog.jpg';
+
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
@@ -39,6 +58,7 @@ import RobotApp from '../assets/RobotApp.jpg';
 import Ndidat from '../assets/Ndidat.jpg';
 import Edidat from '../assets/Edidat.jpg';
 import Etimbuk from '../assets/Etimbuk.jpg';
+import Daddy from '../assets/Daddy.jpg';
 
 
 import adidas from '../assets/adidas.png';
@@ -91,6 +111,7 @@ export default {
   Ndidat,
   Edidat,
   Etimbuk,
+  Daddy,
   CHOWSIDE,
   FINERY,
   NEXUS,
@@ -104,4 +125,22 @@ export default {
   stylemodel,
   facedetect,
   travel,
+  express,
+  mongodb,
+  mysql,
+  sqlite,
+  postgresql,
+  aws,
+  npm,
+  ruby,
+  wordpress,
+  bootstrap,
+  framerMotion,
+  CSharp,
+  reactNative,
+  FreecodecampCert,
+  AlxCert,
+  ReactSummit,
+  mentor,
+  blog,
 };
