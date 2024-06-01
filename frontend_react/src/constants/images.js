@@ -45,6 +45,7 @@ import stylemodel from '../assets/stylemodel.png'
 import facedetect from '../assets/facedetect.jpg'
 import travel from '../assets/travel.webp'
 import PP from '../assets/Pier-point.png';
+import podcaster from '../assets/podcaster.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
@@ -151,4 +152,5 @@ export default {
   twmnMentor,
   blog2,
   PP,
+  podcaster,
 };
