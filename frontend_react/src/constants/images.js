@@ -44,12 +44,16 @@ import iphone15 from '../assets/iphone15.jpg'
 import stylemodel from '../assets/stylemodel.png'
 import facedetect from '../assets/facedetect.jpg'
 import travel from '../assets/travel.webp'
+import PP from '../assets/Pier-point.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
 import ReactSummit from '../assets/ReactSummit.png';
 import mentor from '../assets/mentor.webp';
 import blog from '../assets/blog.jpg';
+import devfest from '../assets/devfest.jpg';
+import twmnMentor from '../assets/twmnMentor.png';
+import blog2 from '../assets/blog2.jpg';
 
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
@@ -143,4 +147,8 @@ export default {
   ReactSummit,
   mentor,
   blog,
+  devfest,
+  twmnMentor,
+  blog2,
+  PP,
 };
