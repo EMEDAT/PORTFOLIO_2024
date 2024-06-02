@@ -46,6 +46,7 @@ import facedetect from '../assets/facedetect.jpg'
 import travel from '../assets/travel.webp'
 import PP from '../assets/Pier-point.png';
 import podcaster from '../assets/podcaster.png';
+import puffles from '../assets/puffles.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
@@ -77,6 +78,7 @@ import CHOWSIDE from '../assets/CHOWSIDE.png';
 import NEXUS from '../assets/NEXUS.png';
 import FINERY from '../assets/FINERY.png';
 import TWMN from '../assets/TWMN.png';
+import pufflesLogo from '../assets/pufflesLogo.jpg';
 
 export default {
   email,
@@ -153,4 +155,6 @@ export default {
   blog2,
   PP,
   podcaster,
+  puffles,
+  pufflesLogo,
 };
