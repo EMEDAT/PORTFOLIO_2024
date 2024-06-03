@@ -47,6 +47,7 @@ import travel from '../assets/travel.webp'
 import PP from '../assets/Pier-point.png';
 import podcaster from '../assets/podcaster.png';
 import puffles from '../assets/puffles.png';
+import bankHorizon from '../assets/bankHorizon.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
