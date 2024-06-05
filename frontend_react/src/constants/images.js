@@ -51,6 +51,7 @@ import puffles from '../assets/puffles.png';
 import bankHorizon from '../assets/bankHorizon.png';
 import aora from '../assets/aora.jpg';
 import shop from '../assets/shop.png';
+import jobSearch from '../assets/jobSearch.jpg';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
@@ -165,4 +166,5 @@ export default {
   aora,
   appwrite,
   shop,
+  jobSearch,
 };
