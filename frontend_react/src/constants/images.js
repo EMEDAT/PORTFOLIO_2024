@@ -32,6 +32,7 @@ import bootstrap from '../assets/bootstrap-4.svg';
 import framerMotion from '../assets/framer-motion.svg';
 import CSharp from '../assets/c--4.svg';
 import reactNative from '../assets/react-native-1.svg';
+import appwrite from '../assets/appwrite.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -49,7 +50,7 @@ import podcaster from '../assets/podcaster.png';
 import puffles from '../assets/puffles.png';
 import bankHorizon from '../assets/bankHorizon.png';
 import aora from '../assets/aora.jpg';
-import appwrite from '../assets/appwrite.png';
+import shop from '../assets/shop.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
@@ -163,4 +164,5 @@ export default {
   bankHorizon,
   aora,
   appwrite,
+  shop,
 };
