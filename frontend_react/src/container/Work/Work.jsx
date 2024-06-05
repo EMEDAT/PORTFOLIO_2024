@@ -104,6 +104,12 @@ const Work = () => {
           </div>
         ))}
       </motion.div>
+
+      { (activeFilter === 'Mobile App' || activeFilter === 'All') && (
+        <p className='notice'>
+          <strong>NB: </strong> Due to expo publish being phased out and will no longer be supported after February 12, 2024 with developers advised to migrate to a paid plan on EAS service. Applications under the 'Mobile App' section will have only active code links as subscription services are not viable. <br /> To view the mobile application projects in real time, please use the <strong>CONTACT</strong> section and i'll get back to you as early as possible. Thank you for your understanding.
+        </p>
+      )}
     </>
   );
 };

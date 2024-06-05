@@ -48,6 +48,8 @@ import PP from '../assets/Pier-point.png';
 import podcaster from '../assets/podcaster.png';
 import puffles from '../assets/puffles.png';
 import bankHorizon from '../assets/bankHorizon.png';
+import aora from '../assets/aora.jpg';
+import appwrite from '../assets/appwrite.png';
 
 import FreecodecampCert from '../assets/FreecodecampCert.png';
 import AlxCert from '../assets/AlxCert.jpg';
@@ -158,4 +160,7 @@ export default {
   podcaster,
   puffles,
   pufflesLogo,
+  bankHorizon,
+  aora,
+  appwrite,
 };
