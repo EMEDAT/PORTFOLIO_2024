@@ -33,6 +33,7 @@ import framerMotion from '../assets/framer-motion.svg';
 import CSharp from '../assets/c--4.svg';
 import reactNative from '../assets/react-native-1.svg';
 import appwrite from '../assets/appwrite.png';
+import java from '../assets/java-4.svg';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -61,6 +62,7 @@ import blog from '../assets/blog.jpg';
 import devfest from '../assets/devfest.jpg';
 import twmnMentor from '../assets/twmnMentor.png';
 import blog2 from '../assets/blog2.jpg';
+import github from '../assets/github.png';
 
 import profile from '../assets/profile-new.png';
 import circle from '../assets/circle.svg';
@@ -83,7 +85,6 @@ import CHOWSIDE from '../assets/CHOWSIDE.png';
 import NEXUS from '../assets/NEXUS.png';
 import FINERY from '../assets/FINERY.png';
 import TWMN from '../assets/TWMN.png';
-import pufflesLogo from '../assets/pufflesLogo.jpg';
 
 export default {
   email,
@@ -161,10 +162,11 @@ export default {
   PP,
   podcaster,
   puffles,
-  pufflesLogo,
   bankHorizon,
   aora,
   appwrite,
   shop,
   jobSearch,
+  github,
+  java,
 };
