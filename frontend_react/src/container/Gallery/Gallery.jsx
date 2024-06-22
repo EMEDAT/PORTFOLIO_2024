@@ -28,8 +28,8 @@ const Gallery = () => {
     setActiveMentorshipIndex(newerIndex);
   };
 
-  const handleBlogClick = () => {
-    setActiveBlogIndex((prev) => (prev === blogs.length - 1 ? 0 : prev + 1));
+  const handleBlogClick = (newerIndex) => {
+    setActiveBlogIndex(newerIndex);
   };
 
 
