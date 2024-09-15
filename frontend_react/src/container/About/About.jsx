@@ -35,7 +35,7 @@ const About = () => {
               </motion.div>
             ))}
             <div className="newarea">
-                <a className='zero' href='https://drive.google.com/drive/folders/1C1mO8RkysqqwWMlwsQDaBTFbMG9v82vl?usp=sharing' alt="Emedat Resume default/dark mode">
+                <a className='zero' href='#' alt="Emedat Resume default/dark mode">
                 Download Resume
                 </a>
             </div>
